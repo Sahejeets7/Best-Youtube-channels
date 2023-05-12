@@ -27,8 +27,10 @@
 27. TED
 28. Ankur Warikoo
 29. Robert Greene
-30. Dj nyk
-31. 
+30. Dj NYK - checkout his NYk academy (online?)
+31. BigThink
+32. Jetbrains
+33. 
 
 
 
