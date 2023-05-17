@@ -16,22 +16,23 @@
 16. The Coding Train
 17. Eddie Jaoude
 18. Travis Media
-19. Dorian develops
-20. Florin Pop
-21. Jordan Peterson
-22. Shwetabh Gangwar
-23. Web Dev simplified
-24. Code with Ania Kubow
-25. ColdFusion
-26. Better than yesterday
-27. TED
-28. amigoscode
-29. Ankur Warikoo
-30. Robert Greene
-31. Dj NYK - checkout his NYk academy (online?)
-32. BigThink
-33. Jetbrains
-34. 
+19. filip
+20. Dorian develops
+21. Florin Pop
+22. Jordan Peterson
+23. Shwetabh Gangwar
+24. Web Dev simplified
+25. Code with Ania Kubow
+26. ColdFusion
+27. Better than yesterday
+28. TED
+29. amigoscode
+30. Ankur Warikoo
+31. Robert Greene
+32. Dj NYK - checkout his NYk academy (online?)
+33. BigThink
+34. Jetbrains
+35. 
 
 
 
