@@ -25,12 +25,13 @@
 25. ColdFusion
 26. Better than yesterday
 27. TED
-28. Ankur Warikoo
-29. Robert Greene
-30. Dj NYK - checkout his NYk academy (online?)
-31. BigThink
-32. Jetbrains
-33. 
+28. amigoscode
+29. Ankur Warikoo
+30. Robert Greene
+31. Dj NYK - checkout his NYk academy (online?)
+32. BigThink
+33. Jetbrains
+34. 
 
 
 
