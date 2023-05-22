@@ -32,7 +32,9 @@
 32. Dj NYK - checkout his NYk academy (online?)
 33. BigThink
 34. Jetbrains
-35. 
+35. Travis Media
+36. Academind
+37. Network Chuck
 
 
 
