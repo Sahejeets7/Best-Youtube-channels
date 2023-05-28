@@ -36,7 +36,8 @@
 36. Academind
 37. Network Chuck
 38. John Watson Rooaney - good for scraping
-39. 
+39. Kevin Stratvert - for anything guide related
+40. 
 
 
 
